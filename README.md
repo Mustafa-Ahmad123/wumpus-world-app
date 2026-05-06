@@ -85,65 +85,7 @@ wumpus-logic-agent/
    * Detects dangerous cells ⚠
    * Marks unknown areas ❓
 
----
-
-## 🚀 Installation & Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/wumpus-logic-agent.git
-cd wumpus-logic-agent
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the app
-
-```bash
-streamlit run app.py
-```
-
----
-
-## 🎮 Controls
-
-* **Auto Step** → Agent moves automatically
-* **Manual Move** → Use directional buttons
-* **Reveal All** → Show full world
-* **Generate World** → Reset environment
-
----
-
-## 📊 UI Highlights
-
-* Grid-based world visualization
-* Real-time inference logs
-* Knowledge base updates
-* Metrics:
-
-  * Inference steps
-  * Safe cells
-  * Danger cells
-  * Visited cells
-
----
-
-## 📈 Future Improvements
-
-* Add arrow shooting for Wumpus
-* Implement pathfinding (A*)
-* Add probabilistic reasoning
-* Improve animations
-* Deploy online (Streamlit Cloud)
-
----
-
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 **Mustafa Ahmad**
 
